@@ -6,5 +6,7 @@ Implementation of Kaggle [Business Case: Yulu - Hypothesis Testing](http://www.o
 
 ## Requisites
 __1. Pandas (Data Analysis and Manipulation Library)__  
+
 __2. Matplotlib (Visualization tool)__
+
 __3. scikit-learn (Classification, Regression and Clustering Algorithms Library)__
